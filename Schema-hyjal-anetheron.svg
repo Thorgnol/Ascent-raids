@@ -1,0 +1,18 @@
+<svg viewBox="0 0 452 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placement du raid">
+<style>.dt{font:600 13px system-ui,sans-serif;fill:#C0392B}</style>
+<rect width="452" height="438" rx="4" fill="var(--void-2, #12111A)"/>
+<circle cx="206.1" cy="231.8" r="192.1" fill="none" stroke="#C0392B" stroke-width="2" stroke-opacity=".75"/>
+<text class="dt" x="404.2" y="235.8">60y</text>
+<circle cx="206.1" cy="231.8" r="115.5" fill="none" stroke="#C0392B" stroke-width="2" stroke-opacity=".75"/>
+<text class="dt" x="327.6" y="235.8">35y</text>
+<circle cx="137.4" cy="230.5" r="9" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="261.5" cy="228.5" r="9" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="205.4" cy="309.7" r="9" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="250.3" cy="27.2" r="9" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="332.1" cy="58.9" r="10" fill="#E9B949" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="333.4" cy="35.8" r="10" fill="#2F6FE0" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="205.4" cy="197.5" r="9" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="205.4" cy="113.0" r="9" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="205.4" cy="235.1" r="19" fill="#EDE7DC"/>
+<circle cx="205.4" cy="261.5" r="10" fill="#2F6FE0" stroke="#0B0A12" stroke-width="2"/>
+</svg>
