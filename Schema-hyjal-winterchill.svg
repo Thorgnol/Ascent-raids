@@ -1,0 +1,44 @@
+<svg viewBox="0 0 702 741" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placement du raid sur Rage Froidhiver">
+<style>.et{font:600 15px system-ui,sans-serif;fill:#EDE7DC}.gp{font:600 20px system-ui,sans-serif;fill:#EDE7DC}.no{font:600 16px system-ui,sans-serif;fill:#E05A4B}.lg{font:500 13px system-ui,sans-serif;fill:#928BA3}</style>
+<rect width="702" height="741" rx="4" fill="var(--void-2, #12111A)"/>
+<circle cx="144.2" cy="293.1" r="76" fill="#EDE7DC" fill-opacity=".045" stroke="#4A4458" stroke-dasharray="5 6"/>
+<text class="gp" x="144.2" y="300.1" text-anchor="middle">Gr 3</text>
+<circle cx="144.2" cy="217.1" r="11" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="216.5" cy="269.6" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="188.9" cy="354.6" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="99.5" cy="354.6" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="71.9" cy="269.6" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="424.0" cy="282.0" r="76" fill="#EDE7DC" fill-opacity=".045" stroke="#4A4458" stroke-dasharray="5 6"/>
+<text class="gp" x="424.0" y="289.0" text-anchor="middle">Gr 5</text>
+<circle cx="424.0" cy="206.0" r="11" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="496.3" cy="258.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="468.7" cy="343.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="379.3" cy="343.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="351.7" cy="258.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="548.0" cy="475.0" r="76" fill="#EDE7DC" fill-opacity=".045" stroke="#4A4458" stroke-dasharray="5 6"/>
+<text class="gp" x="548.0" y="482.0" text-anchor="middle">Gr 4</text>
+<circle cx="548.0" cy="399.0" r="11" fill="#17A67F" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="620.3" cy="451.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="592.7" cy="536.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="503.3" cy="536.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="475.7" cy="451.5" r="11" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="268.3" cy="509.4" r="30" fill="#EDE7DC"/>
+<text class="et" x="268.3" y="514.4" text-anchor="middle" style="fill:#12111A">BOSS</text>
+<circle cx="264.1" cy="463.9" r="15" fill="#2F6FE0" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="204.9" cy="532.8" r="13" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="317.9" cy="531.5" r="13" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="244.8" cy="574.2" r="13" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<circle cx="293.1" cy="575.6" r="13" fill="#C0392B" stroke="#0B0A12" stroke-width="2"/>
+<text class="no" x="261.4" y="82.2" text-anchor="middle">Tout le monde spread</text>
+<text class="no" x="261.4" y="103.2" text-anchor="middle">de quelques mètres</text>
+<line x1="20" y1="683" x2="682" y2="683" stroke="#262232"/>
+<circle cx="30" cy="713" r="10" fill="#EDE7DC"/>
+<text class="lg" x="46" y="718">Boss</text>
+<circle cx="130" cy="713" r="8" fill="#2F6FE0"/>
+<text class="lg" x="146" y="718">Tank</text>
+<circle cx="230" cy="713" r="8" fill="#17A67F"/>
+<text class="lg" x="246" y="718">Heal</text>
+<circle cx="330" cy="713" r="8" fill="#C0392B"/>
+<text class="lg" x="346" y="718">DPS</text>
+<text class="lg" x="678" y="718" text-anchor="end">Rage Froidhiver — placement</text>
+</svg>
